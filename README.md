@@ -1,5 +1,4 @@
-# 🕹️ Super Mario AI Agent with Deep Reinforcement Learning
-
+# 🕹️ Modeling an Intelligent Agent to Play Super Mario Bros Game with Reinforcement Learning
 An intelligent agent trained using **Proximal Policy Optimization (PPO)** to play the classic **Super Mario Bros.** game in a simulated environment. The project utilizes **OpenAI Gym**, **PyTorch**, and `stable-baselines3` to implement and train the agent using visual input (game frames) and custom rewards.
 
 ---
